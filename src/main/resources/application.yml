@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      host: 127.0.0.1 #to be changed to your default host
+      port: #port to be defined
+      database: #database to be defined
+      repositories:
+        type: auto
